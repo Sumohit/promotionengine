@@ -7,6 +7,7 @@ The promotion engine will need to calculate the total order value after applying
 The promotion engine should be modular to allow for more promotion types to be added at a later date (e.g. a future promotion could be x% of a SKU unit price). For this coding exercise you can assume that the promotions will be mutually exclusive; in other words if one is applied the other promotions will not apply
 Test Setup
 Unit price for SKU IDs
+  
   A      50
   B      30
   C      20
